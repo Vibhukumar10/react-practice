@@ -6,3 +6,4 @@
 - [x] [JSX code challenge](https://codesandbox.io/s/jsx-code-challenge-forked-ctp96)
 - [x] [JSX Attributes and Styling](https://codesandbox.io/s/jsx-attributes-and-styling-forked-ogujt?file=/src/index.js)
 - [x] [Inline Styling in JSX ](https://codesandbox.io/s/inline-styling-in-jsx-forked-viu1q?file=/src/index.js)
+- [x] [React Styling Practice ](https://codesandbox.io/s/react-styling-practice-forked-tjydt?file=/src/index.js)
