@@ -10,3 +10,4 @@
 - [x] [React Components](https://codesandbox.io/s/react-components-forked-sfhvl?file=/src/index.js)
 - [x] [React Components Practice](https://codesandbox.io/s/react-components-practice-forked-vh9jl?file=/src/index.js)
 - [x] [ES6 Import/Export & Modules](https://codesandbox.io/s/es6-importexport-modules-forked-8sgn5?file=/src/index.js)
+- [x] [ES6 Import/Export Practice](https://codesandbox.io/s/es6-importexport-practice-forked-iir9m?file=/src/index.js)
