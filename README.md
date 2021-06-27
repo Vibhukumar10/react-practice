@@ -12,4 +12,5 @@
 - [x] [ES6 Import/Export & Modules](https://codesandbox.io/s/es6-importexport-modules-forked-8sgn5?file=/src/index.js)
 - [x] [ES6 Import/Export Practice](https://codesandbox.io/s/es6-importexport-practice-forked-iir9m?file=/src/index.js)
 - [x] [React Props](https://codesandbox.io/s/react-props-forked-zekwd?file=/src/index.js)
-- [x] [React Props Practice](https://codesandbox.io/s/react-props-practice-forked-09601?file=/public/styles.css)
+- [x] [React Props Practice](https://codesandbox.io/s/react-props-practice-forked-09601?file=/src/index.js)
+- [x] [React DevTools](https://codesandbox.io/s/react-devtools-6h981?file=/src/index.js)
