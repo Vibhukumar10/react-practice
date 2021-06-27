@@ -15,3 +15,5 @@
 - [x] [React Props Practice](https://codesandbox.io/s/react-props-practice-forked-09601?file=/src/index.js)
 - [x] [React DevTools](https://codesandbox.io/s/react-devtools-6h981?file=/src/index.js)
 - [x] [Mapping Components](https://codesandbox.io/s/mapping-components-forked-e6994?file=/src/index.js)
+- [x] [Mapping Components Practice](https://codesandbox.io/s/mapping-components-practice-forked-4k46m?file=/src/index.js)
+- [x] []()
