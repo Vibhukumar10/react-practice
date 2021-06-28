@@ -17,3 +17,4 @@
 - [x] [Mapping Components](https://codesandbox.io/s/mapping-components-forked-e6994?file=/src/index.js)
 - [x] [Mapping Components Practice](https://codesandbox.io/s/mapping-components-practice-forked-4k46m?file=/src/index.js)
 - [x] [Map/Filter/Reduce](https://codesandbox.io/s/mapfilterreduce-forked-rs29z?file=/src/index.js)
+- [x] [ES6 Arrow Functions](https://codesandbox.io/s/es6-arrow-functions-forked-rtbjz?file=/src/index.js)
