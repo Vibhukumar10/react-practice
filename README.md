@@ -152,4 +152,10 @@
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-destructuring-forked-q164f?file=/src/index.js">(24)</a></td>
         <td align="center"><p align="center"><a href="https://q164f.csb.app/">(24)</a></p></td>
     </tr>
+    <tr>
+        <td align="center">25.</td>
+        <td align="center">Event Handling in React</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/event-handling-in-react-completed-forked-7xsuk?file=/src/index.js">(25)</a></td>
+        <td align="center"><p align="center"><a href="https://7xsuk.csb.app/">(25)</a></p></td>
+    </tr>
 </table>
