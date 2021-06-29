@@ -26,10 +26,10 @@
 
 <table>
     <tr>
-        <td>S. No.</td>
-        <td>Topic</td>
-        <td>Code Sand Box</td>
-        <td>Live Site</td>
+        <td align="center">S. No.</td>
+        <td align="center">Topic</td>
+        <td align="center">Code Sand Box</td>
+        <td align="center">Live Site</td>
     </tr>
     <tr>
         <td>1.</td>
