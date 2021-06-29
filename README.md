@@ -148,8 +148,8 @@
     </tr>
     <tr>
         <td align="center">24.</td>
-        <td align="center"></td>
-        <td align="center"><p align="center"><a href="">(24)</a></td>
-        <td align="center"><p align="center"><a href="">(24)</a></p></td>
+        <td align="center">ES6 Destructuring</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-destructuring-forked-q164f?file=/src/index.js">(24)</a></td>
+        <td align="center"><p align="center"><a href="https://q164f.csb.app/">(24)</a></p></td>
     </tr>
 </table>
