@@ -19,3 +19,4 @@
 - [x] [Map/Filter/Reduce](https://codesandbox.io/s/mapfilterreduce-forked-rs29z?file=/src/index.js)
 - [x] [ES6 Arrow Functions](https://codesandbox.io/s/es6-arrow-functions-forked-rtbjz?file=/src/index.js)
 - [x] [Conditional Rendering](https://codesandbox.io/s/conditional-rendering-forked-epsux?file=/src/index.js)
+- [x] [Conditional Rendering Practice](https://codesandbox.io/s/conditional-rendering-practice-forked-g8mqj?file=/src/index.js)
