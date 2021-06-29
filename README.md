@@ -33,7 +33,7 @@
 </tr>
 <td>1.</td>
 <td>Introduction to JSX</td>
-<td>## - [1](https://codesandbox.io/s/introduction-to-jsx-forked-ijet3)</td>
+<td><a src="https://codesandbox.io/s/introduction-to-jsx-forked-ijet3">(1)</a></td>
 <td>[(1)](https://ijet3.csb.app/)</td>
 </tr>
 <td>S. No.</td>
