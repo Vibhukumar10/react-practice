@@ -1,28 +1,28 @@
 # Starting up with ⚛️React.js :smile: 
 ## All CodeSandBox links:
-- [x] [Introduction to JSX](https://codesandbox.io/s/introduction-to-jsx-forked-ijet3)
-- [x] [Javascript Expressions in JSX](https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1)
-- [x] [Javascript Expressions in JSX Practice](https://codesandbox.io/s/javascript-expressions-in-jsx-practice-forked-2rrg4)
-- [x] [JSX code challenge](https://codesandbox.io/s/jsx-code-challenge-forked-ctp96)
-- [x] [JSX Attributes and Styling](https://codesandbox.io/s/jsx-attributes-and-styling-forked-ogujt?file=/src/index.js)
-- [x] [Inline Styling in JSX ](https://codesandbox.io/s/inline-styling-in-jsx-forked-viu1q?file=/src/index.js)
-- [x] [React Styling Practice ](https://codesandbox.io/s/react-styling-practice-forked-tjydt?file=/src/index.js)
-- [x] [React Components](https://codesandbox.io/s/react-components-forked-sfhvl?file=/src/index.js)
-- [x] [React Components Practice](https://codesandbox.io/s/react-components-practice-forked-vh9jl?file=/src/index.js)
-- [x] [ES6 Import/Export & Modules](https://codesandbox.io/s/es6-importexport-modules-forked-8sgn5?file=/src/index.js)
-- [x] [ES6 Import/Export Practice](https://codesandbox.io/s/es6-importexport-practice-forked-iir9m?file=/src/index.js)
-- [x] [React Props](https://codesandbox.io/s/react-props-forked-zekwd?file=/src/index.js)
-- [x] [React Props Practice](https://codesandbox.io/s/react-props-practice-forked-09601?file=/src/index.js)
-- [x] [React DevTools](https://codesandbox.io/s/react-devtools-6h981?file=/src/index.js)
-- [x] [Mapping Components](https://codesandbox.io/s/mapping-components-forked-e6994?file=/src/index.js)
-- [x] [Mapping Components Practice](https://codesandbox.io/s/mapping-components-practice-forked-4k46m?file=/src/index.js)
-- [x] [Map/Filter/Reduce](https://codesandbox.io/s/mapfilterreduce-forked-rs29z?file=/src/index.js)
-- [x] [ES6 Arrow Functions](https://codesandbox.io/s/es6-arrow-functions-forked-rtbjz?file=/src/index.js)
-- [x] [Conditional Rendering](https://codesandbox.io/s/conditional-rendering-forked-epsux?file=/src/index.js)
-- [x] [Conditional Rendering Practice](https://codesandbox.io/s/conditional-rendering-practice-forked-g8mqj?file=/src/index.js)
-- [x] [Introduction to State](https://codesandbox.io/s/introduction-to-state-completed-forked-kze9b?file=/src/index.js)
-- [x] [useState Hook](https://codesandbox.io/s/usestate-hook-forked-j0pcs?file=/src/index.js)
-- [x] [useState Hook Practice](https://codesandbox.io/s/usestate-hook-practice-forked-s1lk4?file=/src/index.js)
+<!-- - [x] [Introduction to JSX](https://codesandbox.io/s/introduction-to-jsx-forked-ijet3) -->
+<!-- - [x] [Javascript Expressions in JSX](https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1) -->
+<!-- - [x] [](https://codesandbox.io/s/javascript-expressions-in-jsx-practice-forked-2rrg4) -->
+<!-- - [x] [JSX code challenge](https://codesandbox.io/s/jsx-code-challenge-forked-ctp96) -->
+<!-- - [x] [JSX Attributes and Styling](https://codesandbox.io/s/jsx-attributes-and-styling-forked-ogujt?file=/src/index.js) -->
+<!-- - [x] [Inline Styling in JSX ](https://codesandbox.io/s/inline-styling-in-jsx-forked-viu1q?file=/src/index.js) -->
+<!-- - [x] [React Styling Practice ](https://codesandbox.io/s/react-styling-practice-forked-tjydt?file=/src/index.js) -->
+<!-- - [x] [React Components](https://codesandbox.io/s/react-components-forked-sfhvl?file=/src/index.js) -->
+<!-- - [x] [React Components Practice](https://codesandbox.io/s/react-components-practice-forked-vh9jl?file=/src/index.js) -->
+<!-- - [x] [ES6 Import/Export & Modules](https://codesandbox.io/s/es6-importexport-modules-forked-8sgn5?file=/src/index.js) -->
+<!-- - [x] [ES6 Import/Export Practice](https://codesandbox.io/s/es6-importexport-practice-forked-iir9m?file=/src/index.js) -->
+<!-- - [x] [React Props](https://codesandbox.io/s/react-props-forked-zekwd?file=/src/index.js) -->
+<!-- - [x] [React Props Practice](https://codesandbox.io/s/react-props-practice-forked-09601?file=/src/index.js) -->
+<!-- - [x] [React DevTools](https://codesandbox.io/s/react-devtools-6h981?file=/src/index.js) -->
+<!-- - [x] [Mapping Components](https://codesandbox.io/s/mapping-components-forked-e6994?file=/src/index.js) -->
+<!-- - [x] [Mapping Components Practice](https://codesandbox.io/s/mapping-components-practice-forked-4k46m?file=/src/index.js) -->
+<!-- - [x] [Map/Filter/Reduce](https://codesandbox.io/s/mapfilterreduce-forked-rs29z?file=/src/index.js) -->
+<!-- - [x] [ES6 Arrow Functions](https://codesandbox.io/s/es6-arrow-functions-forked-rtbjz?file=/src/index.js) -->
+<!-- - [x] [Conditional Rendering](https://codesandbox.io/s/conditional-rendering-forked-epsux?file=/src/index.js) -->
+<!-- - [x] [Conditional Rendering Practice](https://codesandbox.io/s/conditional-rendering-practice-forked-g8mqj?file=/src/index.js) -->
+<!-- - [x] [Introduction to State](https://codesandbox.io/s/introduction-to-state-completed-forked-kze9b?file=/src/index.js) -->
+<!-- - [x] [useState Hook](https://codesandbox.io/s/usestate-hook-forked-j0pcs?file=/src/index.js) -->
+<!-- - [x] [useState Hook Practice](https://codesandbox.io/s/usestate-hook-practice-forked-s1lk4?file=/src/index.js) -->
 
 <table>
     <tr>
@@ -32,147 +32,147 @@
         <td align="center">Live Site</td>
     </tr>
     <tr>
-        <td>1.</td>
-        <td>Introduction to JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/introduction-to-jsx-forked-ijet3">(1)</a></p align="center"></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
+        <td align="center">1.</td>
+        <td align="center">Introduction to JSX</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/introduction-to-jsx-forked-ijet3">(1)</a></p align="center"></td>
+        <td align="center"><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(2)</a></p></td>
+        <td align="center">2.</td>
+        <td align="center">Javascript Expressions in JSX</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
+        <td align="center"><p align="center"><a href="https://5e6e1.csb.app/">(2)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(3)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(3)</a></p></td>
+        <td align="center">3.</td>
+        <td align="center">Javascript Expressions in JSX Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-practice-forked-2rrg4">(3)</a></td>
+        <td align="center"><p align="center"><a href="https://2rrg4.csb.app/">(3)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(4)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(4)</a></p></td>
+        <td align="center">4.</td>
+        <td align="center">JSX Code Challenge</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/jsx-code-challenge-forked-ctp96">(4)</a></td>
+        <td align="center"><p align="center"><a href="https://ctp96.csb.app/">(4)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(5)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(5)</a></p></td>
+        <td align="center">5.</td>
+        <td align="center">JSX Attributes and Styling</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/jsx-attributes-and-styling-forked-ogujt?file=/src/index.js">(5)</a></td>
+        <td align="center"><p align="center"><a href="https://ogujt.csb.app/">(5)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(6)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(6)</a></p></td>
+        <td align="center">6.</td>
+        <td align="center">Inline Styling in JSX</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/inline-styling-in-jsx-forked-viu1q?file=/src/index.js">(6)</a></td>
+        <td align="center"><p align="center"><a href="https://viu1q.csb.app/">(6)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(7)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(7)</a></p></td>
+        <td align="center">7.</td>
+        <td align="center">React Styling Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-styling-practice-forked-tjydt?file=/src/index.js">(7)</a></td>
+        <td align="center"><p align="center"><a href="https://tjydt.csb.app/">(7)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(8)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(8)</a></p></td>
+        <td align="center">8.</td>
+        <td align="center">React Components</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-components-forked-sfhvl?file=/src/index.js">(8)</a></td>
+        <td align="center"><p align="center"><a href="https://sfhvl.csb.app/">(8)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(9)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(9)</a></p></td>
+        <td align="center">9.</td>
+        <td align="center">React Components Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-components-practice-forked-vh9jl?file=/src/index.js">(9)</a></td>
+        <td align="center"><p align="center"><a href="https://vh9jl.csb.app/">(9)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(10)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(10)</a></p></td>
+        <td align="center">10.</td>
+        <td align="center">ES6 Import/Export & Modules</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-importexport-modules-forked-8sgn5?file=/src/index.js">(10)</a></td>
+        <td align="center"><p align="center"><a href="https://8sgn5.csb.app/">(10)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(11)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(11)</a></p></td>
+        <td align="center">11.</td>
+        <td align="center">ES6 Import/Export Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-importexport-practice-forked-iir9m?file=/src/index.js">(11)</a></td>
+        <td align="center"><p align="center"><a href="https://iir9m.csb.app/">(11)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(12)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(12)</a></p></td>
+        <td align="center">12.</td>
+        <td align="center">React Props</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-props-forked-zekwd?file=/src/index.js">(12)</a></td>
+        <td align="center"><p align="center"><a href="https://zekwd.csb.app/">(12)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(13)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(13)</a></p></td>
+        <td align="center">13.</td>
+        <td align="center">React Props Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-props-practice-forked-09601?file=/src/index.js">(13)</a></td>
+        <td align="center"><p align="center"><a href="https://09601.csb.app/">(13)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(14)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(14)</a></p></td>
+        <td align="center">14.</td>
+        <td align="center">React DevTools</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-devtools-6h981?file=/src/index.js">(14)</a></td>
+        <td align="center"><p align="center"><a href="https://6h981.csb.app/">(14)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(15)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(15)</a></p></td>
+        <td align="center">15.</td>
+        <td align="center">Mapping Components</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/mapping-components-forked-e6994?file=/src/index.js">(15)</a></td>
+        <td align="center"><p align="center"><a href="https://e6994.csb.app/">(15)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(16)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(16)</a></p></td>
+        <td align="center">16.</td>
+        <td align="center">Mapping Components Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/mapping-components-practice-forked-4k46m?file=/src/index.js">(16)</a></td>
+        <td align="center"><p align="center"><a href="https://4k46m.csb.app/">(16)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(17)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(17)</a></p></td>
+        <td align="center">17.</td>
+        <td align="center">Map/Filter/Reduce</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/mapfilterreduce-forked-rs29z?file=/src/index.js">(17)</a></td>
+        <td align="center"><p align="center"><a href="https://rs29z.csb.app/">(17)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(18)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(18)</a></p></td>
+        <td align="center">18.</td>
+        <td align="center">ES6 Arrow Functions</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-arrow-functions-forked-rtbjz?file=/src/index.js">(18)</a></td>
+        <td align="center"><p align="center"><a href="https://rtbjz.csb.app/">(18)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(19)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(19)</a></p></td>
+        <td align="center">19.</td>
+        <td align="center">Conditional Rendering</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/conditional-rendering-forked-epsux?file=/src/index.js">(19)</a></td>
+        <td align="center"><p align="center"><a href="https://epsux.csb.app/">(19)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(20)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(20)</a></p></td>
+        <td align="center">20.</td>
+        <td align="center">Conditional Rendering Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/conditional-rendering-practice-forked-g8mqj?file=/src/index.js">(20)</a></td>
+        <td align="center"><p align="center"><a href="https://g8mqj.csb.app/">(20)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
+        <td align="center">21.</td>
+        <td align="center">Introduction to State</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/introduction-to-state-completed-forked-kze9b?file=/src/index.js">(21)</a></td>
+        <td align="center"><p align="center"><a href="https://kze9b.csb.app/">(21)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
+        <td align="center">22.</td>
+        <td align="center">useState Hook</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-hook-forked-j0pcs?file=/src/index.js">(22)</a></td>
+        <td align="center"><p align="center"><a href="https://j0pcs.csb.app/">(22)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
+        <td align="center">23.</td>
+        <td align="center">useState Hook Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-hook-practice-forked-s1lk4?file=/src/index.js">(23)</a></td>
+        <td align="center"><p align="center"><a href="https://s1lk4.csb.app/">(23)</a></p></td>
     </tr>
     <tr>
-        <td>2.</td>
-        <td>Javascript Expressions in JSX</td>
-        <td><p align="center"><a href="https://codesandbox.io/s/javascript-expressions-in-jsx-forked-5e6e1">(2)</a></td>
-        <td><p align="center"><a href="https://ijet3.csb.app/">(1)</a></p></td>
+        <td align="center">24.</td>
+        <td align="center"></td>
+        <td align="center"><p align="center"><a href="">(24)</a></td>
+        <td align="center"><p align="center"><a href="">(24)</a></p></td>
     </tr>
 </table>
