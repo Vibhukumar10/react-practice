@@ -5,8 +5,8 @@
     <tr>
         <td align="center">S. No.</td>
         <td align="center">Topic</td>
-        <td align="center">Code Sand Box</td>
-        <td align="center">Live Site</td>
+        <td align="center">CodeSandBox Link</td>
+        <td align="center">Demo</td>
     </tr>
     <tr>
         <td align="center">1.</td>
