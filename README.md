@@ -171,6 +171,12 @@
         <td align="center"><p align="center"><a href="https://dnhux.csb.app/">(27)</a></p></td>
     </tr>
     <tr>
+        <td align="center">28.</td>
+        <td align="center">Changing Complex State Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/changing-complex-state-practice-completed-forked-lfiy1?file=/src/index.js">(28)</a></td>
+        <td align="center"><p align="center"><a href="https://lfiy1.csb.app/">(28)</a></p></td>
+    </tr>
+    <tr>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href=""></a></td>
