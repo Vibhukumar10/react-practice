@@ -158,4 +158,10 @@
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/event-handling-in-react-completed-forked-7xsuk?file=/src/index.js">(25)</a></td>
         <td align="center"><p align="center"><a href="https://7xsuk.csb.app/">(25)</a></p></td>
     </tr>
+    <tr>
+        <td align="center">26.</td>
+        <td align="center">React Forms</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-forms-forked-8igqg?file=/src/index.js">(26)</a></td>
+        <td align="center"><p align="center"><a href="https://8igqg.csb.app/>(26)</a></p></td>
+    </tr>
 </table>
