@@ -167,8 +167,8 @@
     <tr>
         <td align="center">27.</td>
         <td align="center">Changing Complex State</td>
-        <td align="center"><p align="center"><a href="https://codesandbox.io/s/changing-complex-state-forked-dnhux?file=/src/index.js"></a></td>
-        <td align="center"><p align="center"><a href="https://dnhux.csb.app/"></a></p></td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/changing-complex-state-forked-dnhux?file=/src/index.js">(27)</a></td>
+        <td align="center"><p align="center"><a href="https://dnhux.csb.app/">(27)</a></p></td>
     </tr>
     <tr>
         <td align="center"></td>
