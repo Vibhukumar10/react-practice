@@ -164,4 +164,16 @@
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/react-forms-forked-8igqg?file=/src/index.js">(26)</a></td>
         <td align="center"><p align="center"><a href="https://8igqg.csb.app/">(26)</a></p></td>
     </tr>
+    <tr>
+        <td align="center">27.</td>
+        <td align="center">Changing Complex State</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/changing-complex-state-forked-dnhux?file=/src/index.js"></a></td>
+        <td align="center"><p align="center"><a href="https://dnhux.csb.app/"></a></p></td>
+    </tr>
+    <tr>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><p align="center"><a href=""></a></td>
+        <td align="center"><p align="center"><a href=""></a></p></td>
+    </tr>
 </table>
