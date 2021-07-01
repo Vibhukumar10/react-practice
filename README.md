@@ -177,6 +177,12 @@
         <td align="center"><p align="center"><a href="https://lfiy1.csb.app/">(28)</a></p></td>
     </tr>
     <tr>
+        <td align="center">29.</td>
+        <td align="center">ES6 Spread Operator </td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-spread-operator-forked-wfhm2?file=/src/index.js"></a>(29)</td>
+        <td align="center"><p align="center"><a href="https://wfhm2.csb.app/"></a>(29)</p></td>
+    </tr>
+    <tr>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href=""></a></td>
