@@ -189,6 +189,12 @@
         <td align="center"><p align="center"><a href="https://uqyrt.csb.app/">(30)</a></p></td>
     </tr>
     <tr>
+        <td align="center">31.</td>
+        <td align="center">Managing a Component Tree</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/managing-a-component-tree-forked-15lvm?file=/src/index.js">(31)</a></td>
+        <td align="center"><p align="center"><a href="https://15lvm.csb.app/">(31)</a></p></td>
+    </tr>
+    <tr>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href=""></a></td>
