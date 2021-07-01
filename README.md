@@ -183,6 +183,12 @@
         <td align="center"><p align="center"><a href="https://wfhm2.csb.app/">(29)</a></p></td>
     </tr>
     <tr>
+        <td align="center">30.</td>
+        <td align="center">ES6 Spread Operator Practice</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/es6-spread-operator-practice-forked-uqyrt?file=/public/styles.css">(30)</a></td>
+        <td align="center"><p align="center"><a href="https://uqyrt.csb.app/">(30)</a></p></td>
+    </tr>
+    <tr>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href=""></a></td>
