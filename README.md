@@ -195,6 +195,12 @@
         <td align="center"><p align="center"><a href="https://15lvm.csb.app/">(31)</a></p></td>
     </tr>
     <tr>
+        <td align="center">32.</td>
+        <td align="center">Managing a Component Tree Practice </td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/managing-a-component-tree-practice-forked-ff1sb?file=/src/index.js">(32)</a></td>
+        <td align="center"><p align="center"><a href="https://ff1sb.csb.app/">(32)</a></p></td>
+    </tr>
+    <tr>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href=""></a></td>
