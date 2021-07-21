@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td align="center"><strong>S. No.</strong></td>
-        <td align="left"><strong>Topic</strong></td>
+        <td align="center"><strong>Topic</strong></td>
         <td align="center"><strong>CodeSandBox Link</strong></td>
         <td align="center"><strong>Demo</strong></td>
     </tr>
