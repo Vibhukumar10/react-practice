@@ -212,4 +212,16 @@
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-with-arrays-z1c03">(1)</a></td>
         <td align="center"><p align="center"><a href="https://z1c03.csb.app/">(1)</a></p></td>
     </tr>
+    <tr>
+        <td align="center">2.</td>
+        <td align="center">useState with Objects</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-with-objects-cl7ux">(2)</a></td>
+        <td align="center"><p align="center"><a href="https://cl7ux.csb.app/">(2)</a></p></td>
+    </tr>
+    <tr>
+        <td align="center">3.</td>
+        <td align="center"></td>
+        <td align="center"><p align="center"><a href=""></a></td>
+        <td align="center"><p align="center"><a href=""></a></p></td>
+    </tr>
 </table>
