@@ -200,10 +200,16 @@
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/managing-a-component-tree-practice-forked-ff1sb?file=/src/index.js">(32)</a></td>
         <td align="center"><p align="center"><a href="https://ff1sb.csb.app/">(32)</a></p></td>
     </tr>
+</table>
+
+# React Hooks
+## All CodeSandBox links:
+
+<table>
     <tr>
-        <td align="center"></td>
-        <td align="center"></td>
-        <td align="center"><p align="center"><a href=""></a></td>
-        <td align="center"><p align="center"><a href=""></a></p></td>
+        <td align="center">1.</td>
+        <td align="center">useState with Arrays</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-with-arrays-z1c03">(1)</a></td>
+        <td align="center"><p align="center"><a href="https://z1c03.csb.app/">(1)</a></p></td>
     </tr>
 </table>
