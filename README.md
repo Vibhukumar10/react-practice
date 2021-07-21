@@ -207,6 +207,12 @@
 
 <table>
     <tr>
+        <td align="center"><strong>S. No.</strong></td>
+        <td align="center"><strong>Topic</strong></td>
+        <td align="center"><strong>CodeSandBox Link</strong></td>
+        <td align="center"><strong>Demo</strong></td>
+    </tr>
+    <tr>
         <td align="center">1.</td>
         <td align="left">useState with Arrays</td>
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/usestate-with-arrays-z1c03">(1)</a></td>
