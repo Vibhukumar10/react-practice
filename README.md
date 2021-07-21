@@ -226,6 +226,12 @@
     </tr>
     <tr>
         <td align="center">4.</td>
+        <td align="center">useEffect [Run Effects only Once]</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/useeffect-run-effects-only-once-89xfi?file=/src/App.jsx">(4)</a></td>
+        <td align="center"><p align="center"><a href="https://89xfi.csb.app/">(4)</a></p></td>
+    </tr>
+    <tr>
+        <td align="center">4.</td>
         <td align="center"></td>
         <td align="center"><p align="center"><a href="">(3)</a></td>
         <td align="center"><p align="center"><a href="">(3)</a></p></td>
