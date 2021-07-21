@@ -237,9 +237,15 @@
         <td align="center"><p align="center"><a href="https://89xfi.csb.app/">(4)</a></p></td>
     </tr>
     <tr>
+        <td align="center">5.</td>
+        <td align="left">useEffect with Cleanup</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/useeffect-with-cleanup-et28v">(5)</a></td>
+        <td align="center"><p align="center"><a href="https://et28v.csb.app/">(5)</a></p></td>
+    </tr>
+    <tr>
         <td align="center">4.</td>
         <td align="left"></td>
-        <td align="center"><p align="center"><a href="">(3)</a></td>
-        <td align="center"><p align="center"><a href="">(3)</a></p></td>
+        <td align="center"><p align="center"><a href="">(4)</a></td>
+        <td align="center"><p align="center"><a href="">(4)</a></p></td>
     </tr>
 </table>
