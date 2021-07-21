@@ -220,7 +220,7 @@
     </tr>
     <tr>
         <td align="center">3.</td>
-        <td align="center">useEffect [conditionally run side-effects]</td>
+        <td align="left">useEffect [conditionally run side-effects]</td>
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/useeffect-for-document-title-t3xsc">(3)</a></td>
         <td align="center"><p align="center"><a href="https://t3xsc.csb.app/">(3)</a></p></td>
     </tr>
