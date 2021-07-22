@@ -244,9 +244,15 @@
     </tr>
     <tr>
         <td align="center">6.</td>
-        <td align="left">Fetching Data using useEffect</td>
+        <td align="left">Fetching Data using useEffect(axios) #1</td>
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/fetching-data-using-useeffect-ciofs">(6)</a></td>
         <td align="center"><p align="center"><a href="https://ciofs.csb.app/">(6)</a></p></td>
+    </tr>
+    <tr>
+        <td align="center">7.</td>
+        <td align="left">Fetching Data using useEffect(axios) #2</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/fetching-data-using-useeffectaxios-2-st5e3">(7)</a></td>
+        <td align="center"><p align="center"><a href="https://st5e3.csb.app/">(7)</a></p></td>
     </tr>
     <tr>
         <td align="center">4.</td>
