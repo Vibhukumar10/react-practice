@@ -262,7 +262,7 @@
     </tr>
     <tr>
         <td align="center">9.</td>
-        <td align="left">useContext #1</td>
+        <td align="left">useContext</td>
         <td align="center"><p align="center"><a href="https://codesandbox.io/s/usecontext-1-3wlsb?file=/src/App.jsx">(9)</a></td>
         <td align="center"><p align="center"><a href="https://3wlsb.csb.app/">(9)</a></p></td>
     </tr>
