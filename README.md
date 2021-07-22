@@ -255,6 +255,12 @@
         <td align="center"><p align="center"><a href="https://st5e3.csb.app/">(7)</a></p></td>
     </tr>
     <tr>
+        <td align="center">8.</td>
+        <td align="left">Fetching Data using useEffect(axios) #3</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/fetching-data-using-useeffectaxios-3-gbcir?file=/src/FetchingData.jsx">(8)</a></td>
+        <td align="center"><p align="center"><a href="https://gbcir.csb.app/">(8)</a></p></td>
+    </tr>
+    <tr>
         <td align="center">4.</td>
         <td align="left"></td>
         <td align="center"><p align="center"><a href="">(4)</a></td>
