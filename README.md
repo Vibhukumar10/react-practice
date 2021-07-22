@@ -243,6 +243,12 @@
         <td align="center"><p align="center"><a href="https://et28v.csb.app/">(5)</a></p></td>
     </tr>
     <tr>
+        <td align="center">6.</td>
+        <td align="left">Fetching Data using useEffect</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/fetching-data-using-useeffect-ciofs">(6)</a></td>
+        <td align="center"><p align="center"><a href="https://ciofs.csb.app/">(6)</a></p></td>
+    </tr>
+    <tr>
         <td align="center">4.</td>
         <td align="left"></td>
         <td align="center"><p align="center"><a href="">(4)</a></td>
