@@ -273,6 +273,12 @@
         <td align="center"><p align="center"><a href="https://jpnko.csb.app/">(10)</a></p></td>
     </tr>
     <tr>
+        <td align="center">11.</td>
+        <td align="left">useReducer #2</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usereducer-2-zh88e?file=/src/Counter1.js">(11)</a></td>
+        <td align="center"><p align="center"><a href="https://zh88e.csb.app/">(11)</a></p></td>
+    </tr>
+    <tr>
         <td align="center">4.</td>
         <td align="left"></td>
         <td align="center"><p align="center"><a href="">(4)</a></td>
