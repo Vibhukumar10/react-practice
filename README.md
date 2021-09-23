@@ -267,6 +267,12 @@
         <td align="center"><p align="center"><a href="https://3wlsb.csb.app/">(9)</a></p></td>
     </tr>
     <tr>
+        <td align="center">10.</td>
+        <td align="left">useReducer #1</td>
+        <td align="center"><p align="center"><a href="https://codesandbox.io/s/usereducer-1-jpnko?file=/src/Counter1.js">(10)</a></td>
+        <td align="center"><p align="center"><a href="https://jpnko.csb.app/">(10)</a></p></td>
+    </tr>
+    <tr>
         <td align="center">4.</td>
         <td align="left"></td>
         <td align="center"><p align="center"><a href="">(4)</a></td>
